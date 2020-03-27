@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["ConfigHome"],{"3b60":function(n,o,e){"use strict";e.r(o);var l,u,p=e("2877"),s={},t=Object(p["a"])(s,l,u,!1,null,null,null);o["default"]=t.exports}}]);
-//# sourceMappingURL=ConfigHome.12c3f23b.js.map
